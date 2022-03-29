@@ -4,8 +4,8 @@
         "post0": {
             "title": "주피터노트북 파일(ipynb)을 마크다운파일(md)로 변환하는 마법과 같은 코드",
             "content": "주피터노트북 파일(.ipynb)을 마크다운(.md)파일로 변환하는 마법과 같은 주문 . jupyter nbconvert --to markdown [변환할 노트북 파일명].ipynb . 해당 폴더에 가서, 터미널을 연 다음 . (base) ******@MacbookPro python % jupyter nbconvert --to markdown 00_DevEnviron.ipynb . 참고 : https://rollingsnowball.tistory.com/129 .",
-            "url": "https://omsace.github.io/omsace_blog/blog/2022/03/29/%EC%A3%BC%ED%94%BC%ED%84%B0%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9D%98-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%B3%80%ED%99%98.html",
-            "relUrl": "/blog/2022/03/29/%EC%A3%BC%ED%94%BC%ED%84%B0%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9D%98-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%B3%80%ED%99%98.html",
+            "url": "https://omsace.github.io/omsace_blog/blog/2022/03/29/fromJupytertoMD.md.html",
+            "relUrl": "/blog/2022/03/29/fromJupytertoMD.md.html",
             "date": " • Mar 29, 2022"
         }
         
